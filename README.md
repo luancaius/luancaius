@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there! 👋 I'm Luan Ramos
 
-<!--
-**luancaius/luancaius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a Senior Software Engineer with a strong passion for building scalable, impactful applications. I have a diverse background, from Flutter app development to backend platform in C#, microservices in Python and Azure integrations. Here, you'll find a collection of my work, experiments, and contributions to open-source.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently expanding my skills in **Flutter**
+- Learning and testing **Hexagonal Architecture**
+- Starting to use C4 models for documentation
+- 🎯 Focused on scalable backend services, microservices architecture, and efficient use of **Cloud Resources**
+
+## 💻 My Expertise
+
+- **Languages**: C#, Dart (Flutter), Python, JavaScript, SQL
+- **Frameworks & Libraries**: ASP.NET Core, Flutter, React, Django
+- **DevOps & Tools**: Azure (Functions, Service Bus, Storage), GitHub Actions, Docker, Codemagic, and Firebase
+- **Database & Storage**: SQL Server, MySQL, MongoDB, Redis
+- **Testing & QA**: Sentry for error tracking, integration test, and creating test automation scripts
+
+## 🔨 Projects You’ll Find Here
+
+### Transparencia 🇧🇷
+A project to promote government transparency, focusing on data about deputies' expenses in Brazil. I'm using .NET core with **hexagonal architecture** and **MongoDB** and **Redis** as NOSQL and **SQL Server** as SQL database.
+
+## 💼 Professional Experience
+
+I’m currently working towards a Senior Engineer role at Achievers, helping guide architectural decisions, mentoring junior engineers, and ensuring the projects I work on meet high standards of quality and performance.
+
+## 🌐 Find Me Online
+
+- LinkedIn: [Luan Ramos](https://www.linkedin.com/in/luancaius)
+
+## 📫 Get in Touch
+
+I'm open to collaborating on interesting projects and learning from others in the community. Feel free to reach out via email at [email@example.com](mailto:email@example.com) or drop me a message on LinkedIn.
+
+---
+
+### Badges and Stats
+
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luancaiusramos&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luancaiusramos&layout=compact&theme=radical)
