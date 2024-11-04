@@ -32,12 +32,12 @@ I’m currently working towards a Senior Engineer role at Achievers, helping gui
 
 ## 📫 Get in Touch
 
-I'm open to collaborating on interesting projects and learning from others in the community. Feel free to reach out via email at [email@example.com](mailto:email@example.com) or drop me a message on LinkedIn.
+I'm open to collaborating on interesting projects and working as a freelance. Feel free to send me a message on LinkedIn.
 
 ---
 
 ### Badges and Stats
 
-![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luancaiusramos&show_icons=true&theme=radical)
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luancaius&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luancaiusramos&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luancaius&layout=compact&theme=radical)
