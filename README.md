@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Luan Ramos
+# Hello, I'm Luan Ramos
 
 Hi, I'm a Senior Software Engineer with a strong passion for building scalable, impactful applications. I have a diverse background, from Flutter app development to backend platform in C#, microservices in Python and Azure integrations. Here, you'll find a collection of my work, experiments, and contributions to open-source.
 
